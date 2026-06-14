@@ -11,13 +11,6 @@ Pan-cancer co-mutation pattern discovery and synthetic lethal interaction nomina
 | `04_figures_network.R` | Co-mutation network visualization and publication figures |
 | `05_tcga_validation.R` | TCGA pan-cancer replication of co-mutation patterns |
 
-## Key Features
-
-- Panel-corrected co-mutation analysis (IMPACT468+505 only)
-- 187 significant co-mutation pairs identified (FDR<0.05)
-- Synthetic lethal candidate nomination (OR<0.75, pathway convergence, drug targetability)
-- Classical validation pairs confirmed (KRAS-EGFR, KRAS-BRAF)
-- Network visualization via igraph
 
 ## Data Sources
 
